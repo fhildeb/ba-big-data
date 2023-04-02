@@ -29,7 +29,9 @@ The science course provided a robust data analysis and predictive modeling found
 2. Linear Regression
    - MSE, RMSE, Visualization
    - Selection, Weighting, Modeling
-3.
+3. K-Nearest Neighbor
+   - Modeling, Selection
+   - Optimization, Data Splitting
 4.
 5.
 6.
