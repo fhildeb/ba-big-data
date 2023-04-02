@@ -32,7 +32,7 @@ The science course provided a robust data analysis and predictive modeling found
 3. K-Nearest Neighbor
    - Modeling, Selection
    - Optimization, Data Splitting
-4.
+4. Data Preprocessing
 5.
 6.
 
