@@ -7,13 +7,16 @@ Linear regression is a statistical method that models the linear relationship be
 ## Project Preview
 
 ![Rapid Miner Preview](../img/02_linear_regression_1.png)
-![Rapid Miner Evaluation](../img/02_linear_regression_2.png)
 
-## Regression (Regression Berechnung)
+## Regression
+
+> File: `Regression_Berechnung.rmp`
 
 A regression project file that contains a set of data processing and modeling operations designed to create a regression model based on input data. It involves importing data, preprocessing, selecting relevant features, creating the regression model, and evaluating its performance using metrics such as MSE and RMSE.
 
 ## Bodyfat Calculation
+
+![Rapid Miner Evaluation](../img/02_linear_regression_2.png)
 
 ### MSE & RMSE (4e)
 

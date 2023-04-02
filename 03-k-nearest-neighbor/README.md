@@ -7,13 +7,16 @@ K-nearest neighbor (KNN) is a non-parametric algorithm for classification and re
 ## Project Preview
 
 ![Rapid Miner Preview](../img/03_k_nearest_neighbour_1.png)
-![Rapid Miner Evaluation](../img/03_k_nearest_neighbour_2.png)
 
-## KNN (Einkommen Berechnung)
+## KNN
+
+> File: `Einkommen_Berechnung.rmp`
 
 A project file that contains a set of data processing and modeling operations designed to create a KNN model based on income data. It involves importing data, preprocessing, normalizing, creating the KNN model, and evaluating its performance using metrics such as RMSE.
 
 ## Bodyfat Calculation
+
+![Rapid Miner Evaluation](../img/03_k_nearest_neighbour_2.png)
 
 ### KNN Model (5a)
 
