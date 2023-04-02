@@ -33,7 +33,7 @@ The science course provided a robust data analysis and predictive modeling found
    - Modeling, Selection
    - Optimization, Data Splitting
 4. Data Preprocessing
-5.
+5. Naive Bayes
 6.
 
 ## Tools
