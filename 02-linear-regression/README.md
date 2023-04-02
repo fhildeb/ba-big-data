@@ -6,7 +6,8 @@ Linear regression is a statistical method that models the linear relationship be
 
 ## Project Preview
 
-![Rapid Miner Preview](../img/02_linear_regresion.png)
+![Rapid Miner Preview](../img/02_linear_regression_1.png)
+![Rapid Miner Evaluation](../img/02_linear_regression_2.png)
 
 ## Regression (Regression Berechnung)
 
